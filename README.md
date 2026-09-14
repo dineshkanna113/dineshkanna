@@ -5,22 +5,15 @@
 
 ---
 
-## 🔭 Currently Building:
-🛠️ **DevTrack** – A full-stack issue tracking system  
-Tech Stack: FastAPI · React · PostgreSQL · Tailwind · JWT Auth · Vercel/Render
-
----
-
 ## 🌱 Learning Goals:
-- Mastering Data Structures & Algorithms (LeetCode 300+ challenge)
+- Mastering Data Structures & Algorithms (LeetCode 200+ challenge)
 - Deepening backend & system design knowledge
-- Open-source contribution (Red Hat, PyTorch, FastAPI projects)
 
 ---
 
 ## 🛠️ Tech Stack
-- Languages: `Python`, `C`, `C++`, `JavaScript`
-- Backend: `FastAPI`, `Flask`
+- Languages: `Python`, `Java`, `C++`, `JavaScript`
+- Backend: `FastAPI`, `Flask`, `Spring Boot`
 - Frontend: `React`, `HTML`, `CSS`, `Tailwind`
 - DBs: `PostgreSQL`, `MongoDB`, `Firebase`
 - Tools: `Git`, `GitHub`, `Postman`, `Vercel`, `Render`, `Linux`
@@ -30,4 +23,4 @@ Tech Stack: FastAPI · React · PostgreSQL · Tailwind · JWT Auth · Vercel/Ren
 ## 📫 Connect with me:
 - ✉️ Email: dineshkanna.paramananthan@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/dinesh-kanna-d18k
-- 💻 Portfolio: [*Coming Soon*]
+- 💻 Portfolio: https://github.com/dineshkanna113/dk_portfolio
